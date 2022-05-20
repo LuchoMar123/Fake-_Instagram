@@ -1,9 +1,3 @@
-//
-//  HelperImage.swift
-//  ProjectMVVM
-//
-//  Created by Linder Anderson Hassinger Solano    on 29/04/22.
-//
 
 import Foundation
 import UIKit
